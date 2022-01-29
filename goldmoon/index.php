@@ -617,7 +617,7 @@
 	<div class="container">
     <h1 class="title title-hero"> <strong>Goldmoon</strong> <span>The Best Site</span>
 		</h1>
-		<a href="goldmoon.php" class="button button-accent">Enter</a>
+		<a href="loggedinindex.php" class="button button-accent">Enter</a>
 	</div>
 </section>
 
