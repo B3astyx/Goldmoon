@@ -76,7 +76,6 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
         body{ font: 14px sans-serif; text-align: center; }
         .wrapper{ width: 360px; padding: 20px; }
         .form-control{ text-align: center; }
-        .form-group{ margin: auto; }
     </style>
 </head>
 <body>
