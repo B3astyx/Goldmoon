@@ -75,7 +75,9 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     <style>
         body{ font: 14px sans-serif; text-align: center; }
         .wrapper{ width: 360px; padding: 20px; }
-        input{ margin: auto; }
+        input[type=text]:focus { border: 3px solid #555; }
+        input[type=password]:focus { border: 3px solid #555; }
+
     </style>
 </head>
 <body>
