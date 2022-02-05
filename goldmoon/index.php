@@ -1,7 +1,7 @@
 <html>
 <head>
 <script data-ad-client="ca-pub-7570452926324308" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-
+<script src="/js/info.js"></script>
 <title>Goldmoon</title>
 <link rel="shortcut icon" href="goldmoonlogo.png">
 <style>
@@ -617,7 +617,7 @@
 	<div class="container">
     <h1 class="title title-hero"> <strong>Goldmoon</strong> <span>The Best Site</span>
 		</h1>
-		<a href="loggedinindex.php" class="button button-accent">Enter</a>
+		<a href="loggedinindex.php"  class="button  button-accent">Enter</a>
 	</div>
 </section>
 
